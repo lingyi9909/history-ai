@@ -4,7 +4,7 @@ AI 中国经典文学影像化项目。
 
 ## 当前状态
 
-**History AI V1 已完成方案收口，Phase 1 已冻结，可以进入执行。**
+**History AI V1 已完成方案收口，Phase 1 已冻结，当前进入 Launch Preparation / Launch Check 执行。**
 
 当前唯一执行基线：
 
@@ -36,8 +36,25 @@ Phase 1 核心参数：
 4. 《桃花源记》
 5. 《将进酒》
 
-## 下一步
+## 当前执行材料
 
-> **Launch Preparation → Launch Check《将进酒》 → Batch 1 Production Package → 正式发布。**
+### Launch Preparation
+
+- [轻量竞品基准表](docs/production/launch-preparation/2026-08-30-competitor-baseline.md)
+- [Launch Readiness Checklist](docs/production/launch-preparation/2026-08-30-launch-readiness-checklist.md)
+
+### Launch Check
+
+- [《将进酒》Launch Check Production Package](docs/production/launch-check/2026-08-30-jiang-jin-jiu-launch-check.md)
+
+### 数据模板
+
+- [Sample Metrics & Cost Log Template](docs/production/templates/sample-metrics-log-template.md)
+
+## 当前下一步
+
+> **按《将进酒》Production Package 生成参考图和视频 → 完成 Launch Check 验收 → 达标后发布 Sample #1。**
+
+Launch Check 通过后，继续完成 Batch 1 其余四个题材的 Production Package。
 
 仓库中的评审稿、旧设计和调研文档继续保留用于追溯，但如有冲突，以终版执行方案为准。
