@@ -2,42 +2,42 @@
 
 AI 中国经典文学影像化项目。
 
-## 当前阶段
+## 当前状态
 
-History AI V1 当前准备先做 **15–30 天真实流量验证**，通过真实短视频发布判断用户是否愿意持续消费 AI 中国经典文学影像内容。
+**History AI V1 已完成方案收口，Phase 1 已冻结，可以进入执行。**
 
-当前不开发 App / SaaS / 自研模型，不提前做连续 AI 微短剧，也不要求第一阶段验证完整 B 端商业闭环。
+当前唯一执行基线：
 
-## 当前方案
-
-请直接阅读：
-
-### [History AI V1 当前方案](docs/review/2026-08-30-history-ai-v1-current-plan.md)
-
-这是当前唯一方案入口。
+### [History AI V1 终版执行方案](docs/superpowers/specs/2026-08-30-history-ai-v1-final.md)
 
 Phase 1 核心参数：
 
-- 周期：15 天初判，最长 30 天；
-- 现金预算：约 ¥2,000–3,000；
-- 内容：10–15 条 30–60 秒短视频；
-- 首批题材：《木兰诗》《蜀道难》《赤壁赋》《桃花源记》《将进酒/出师表》；
-- 至少两个短视频平台进行真实发布；
-- Organic First，不用投流制造成功；
-- 前 5 条建立 Baseline，后续根据真实数据集中测试更强方向；
-- 重点看观看质量、分享、收藏、关注、评论和系列需求，不只看播放量；
-- Day 15 信号清晰即可 PASS / PIVOT / STOP。
+- Traffic-First；
+- Day 10 Health Check；
+- Day 15 Early Gate；
+- 最长 Day 30 正式 Traffic Gate；
+- 现金预算 ¥2,000–3,000；
+- 目标 10–15 条 30–60 秒短视频；
+- 主平台抖音，辅助平台视频号；
+- Organic First；
+- 不设置额外“养号期”，前 3 条作为 Calibration Samples；
+- Launch Check 通过后才进入正式批量发布；
+- Batch 1 固定表达测 5 个题材；
+- Batch 2 在赢家题材上测试不同表达方式；
+- 最终结论为 PASS / PIVOT / FAIL / INSUFFICIENT；
+- 从 Sample #1 开始记录完整流量、成本、工时和有效镜头率；
+- Phase 1 不开发 App / SaaS / 自研模型，不做连续 AI 微短剧，不强制中长精品片，不提前验证 B 端商业闭环。
 
-## 评估模板
+## 首批固定题材
 
-### [History AI V1 评估反馈模板](docs/review/REVIEW_TEMPLATE.md)
+1. 《木兰诗》
+2. 《蜀道难》
+3. 《赤壁赋》
+4. 《桃花源记》
+5. 《将进酒》
 
-希望评估人重点判断：
+## 下一步
 
-> **当前方案是否已经足够合理，可以直接开始 15–30 天真实流量验证？**
+> **Launch Preparation → Launch Check《将进酒》 → Batch 1 Production Package → 正式发布。**
 
-如果存在问题，请严格区分真正会污染实验结果的 blocker 与可以边做边调整的优化建议。
-
-## 其他材料
-
-仓库中其他设计、调研和历史文档仅作为补充资料。当前执行与评估均以 `docs/review/2026-08-30-history-ai-v1-current-plan.md` 为准。
+仓库中的评审稿、旧设计和调研文档继续保留用于追溯，但如有冲突，以终版执行方案为准。
