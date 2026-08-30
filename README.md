@@ -2,21 +2,18 @@
 
 AI 中国经典文学影像化项目。
 
-## 当前状态
+## 当前方案
 
-V1 商业与内容方案正在多人评审，**正式评审材料在 `develop` 分支**。
+History AI V1 当前方案位于 `develop` 分支。
 
-请不要基于 `main` 分支内容审核。
+请直接阅读：
 
-### 评审入口
+https://github.com/lingyi9909/history-ai/blob/develop/docs/review/2026-08-30-history-ai-v1-current-plan.md
 
-- develop 分支：
-  https://github.com/lingyi9909/history-ai/tree/develop
+评估反馈模板：
 
-- V1 多人评审包（主文档）：
-  https://github.com/lingyi9909/history-ai/blob/develop/docs/review/2026-08-30-history-ai-v1-review-pack.md
+https://github.com/lingyi9909/history-ai/blob/develop/docs/review/REVIEW_TEMPLATE.md
 
-- 标准评审反馈模板：
-  https://github.com/lingyi9909/history-ai/blob/develop/docs/review/REVIEW_TEMPLATE.md
+当前方案核心目标：先用 15–30 天、约 ¥2,000–3,000 现金预算，发布 10–15 条真实短视频，验证用户是否愿意持续消费 AI 中国经典文学影像内容。
 
-如果旧设计或整改记录与多人评审包存在冲突，以多人评审包为准。
+请以 `develop` 分支的当前方案为准。
